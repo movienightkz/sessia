@@ -1,0 +1,27 @@
+{
+    "dz-1": {
+        "img": "/foto/fotodz1.jpg",
+        "description": "Легкая работа, но я не дизайнер",
+        "link": "https://github.com/movienightkz/dz1"
+    },
+    "dz-2": {
+        "img": "/foto/fotodz2.jpg",
+        "description": "Первое задание где использовал js, получилось неочень",
+        "link": "https://github.com/movienightkz/dz1"
+    },
+    "dz-3": {
+        "img": "/foto/fotodz3.jpg",
+        "description": "Рубежная работа, муторная, но сделать можно быстро",
+        "link": "https://github.com/movienightkz/dz1"
+    },
+    "dz-4": {
+        "img": "/foto/fotodz4.jpg",
+        "description": "Просто информация о фильмах",
+        "link": "https://github.com/movienightkz/dz1"
+    },
+    "dz-5": {
+        "img": "/foto/fotodz5.jpg",
+        "description": "Портфолио, ах какая фоточка",
+        "link": "https://github.com/movienightkz/dz1"
+    }
+}
